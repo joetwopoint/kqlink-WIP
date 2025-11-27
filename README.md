@@ -23,7 +23,3 @@ ensure kq_weed
 ensure kq_cocaine
 ensure kq_amphetamines
 ```
-
-## Notes
-- Exports namespace is the folder name (`kq_link`), so keep this folder named exactly `kq_link`.
-- You can keep the TwoPoint branding internally (this README, code comments, etc.).
