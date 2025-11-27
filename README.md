@@ -1,8 +1,7 @@
 
 # TwoPoint_Inventory — Single-Folder Build (**kq_link**)
 
-This is the **Option A** single-folder build. The folder **must be named `kq_link`** so KuzQuality scripts that call `exports.kq_link:*` keep working.  
-Branding remains **TwoPoint_Inventory** inside the files/README.
+The folder **must be named `kq_link`** so KuzQuality scripts that call `exports.kq_link:*` keep working.  
 
 ## What’s inside
 - SQL-backed inventory just for KuzQuality Drug Empire (vMenu friendly; no ESX/QBCore).
